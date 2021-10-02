@@ -1,0 +1,181 @@
+{# Macros to make the life easier across the website #}
+
+
+{%- macro button_link(href, text, type="btn-primary", icon="none") %}
+  <a class="btn btn-sm {{ type }} me-1 mb-2" href="{{ href }}" target="_blank">
+    <i class="{{ icon }} me-1" aria-hidden="true"></i>
+    {{ text }}
+  </a>
+{%- endmacro %}
+
+
+{%- macro make_publication_list(papers) %}
+{# Create a list of publications #}
+<div class="mt-5">
+  {%- for paper in papers %}
+    {%- set id = loop.index %}
+    {%- if paper.doi is defined %}
+      {%- set doi = paper.doi %}
+    {%- else %}
+      {%- set doi = paper.preprint %}
+    {%- endif %}
+    {%- set citation = "https://citation.crosscite.org/?doi=" ~ doi %}
+    {%- set bibtex = "https://www.doi2bib.org/bib/" ~ doi|urlencode %}
+    {%- if paper.openaccess is defined and paper.openaccess %}
+      {%- set pdf = "https://doi.org/" ~ paper.doi %}
+    {%- elif paper.preprint is defined %}
+      {%- set pdf = "https://doi.org/" ~ paper.preprint %}
+    {%- elif paper.pdf is defined %}
+      {%- set pdf = paper.pdf %}
+    {%- endif %}
+    <div class="mb-5">
+    <h2 class="fs-4 mb-1">
+      {{ paper.title|trim }}
+    </h2>
+    <p class="mb-1">
+      {{ paper.authors|trim }}
+      <span class="text-muted">({{ paper.year }})</span>
+    </p>
+    <p class="text-muted fs-6">
+      {%- if paper.openaccess is defined and paper.openaccess %}
+        <span class="badge bg-success fw-normal me-1">
+          <i class="ai ai-open-access me-1" aria-hidden="true"></i>
+          open-access
+        </span>
+      {%- endif %}
+      {%- if paper.preprint is defined and not paper.doi is defined %}
+        <span class="badge bg-warning text-dark fw-normal me-1">
+          preprint
+        </span>
+      {%- endif %}
+      {{ paper.journal }},
+      doi:<a href="https://doi.org/{{ doi }}">{{ doi }}</a>
+    </p>
+    <button class="btn btn-secondary btn-sm me-1 mb-2" type="button"
+        data-bs-toggle="collapse" data-bs-target="#collapse-abstract-{{ id }}"
+        aria-expanded="false" aria-controls="collapse-abstract-{{ id }}">
+      Find out more <i class="fa fa-chevron-circle-down ms-1" aria-hidden="true"></i>
+    </button>
+    {{ button_link(pdf, "PDF", type="btn-primary", icon="fa fa-file-pdf") }}
+    {%- if paper.data is defined %}
+      {{ button_link("https://doi.org/" ~ paper.data, "Data", type="btn-outline-primary", icon="fa fa-chart-bar") }}
+    {%- endif %}
+    {%- if paper.github is defined %}
+      {{ button_link("https://github.com/" ~ paper.github, "Code", type="btn-outline-primary", icon="fab fa-github") }}
+    {%- endif %}
+    <div id="collapse-abstract-{{ id }}" class="collapse paper-info mt-2 overflow-hidden">
+      {%- if paper.note is defined %}
+        <div class="callout callout-note mb-4">
+          <p><strong>Note:</strong> {{ paper.note|trim }}</p>
+        </div>
+      {%- endif %}
+      <h3 class="fs-4">Abstract</h3>
+      <p>{{ paper.abstract|trim }}</p>
+      <h3 class="fs-4">Cite as</h3>
+      <p class="citation">{{ paper.citation|trim }}</p>
+      <h3 class="fs-4">Article Level Metrics</h3>
+      <div class="row mt-2 mb-4 gy-3 gx-5 justify-content-start">
+        <div class="col-6 col-sm-2">
+          <div class="altmetric-embed" data-badge-type="medium-donut"  data-badge-popover="right"  data-doi="{{ doi }}"></div>
+        </div>
+        <div class="col-6 col-sm-2">
+          <span class="__dimensions_badge_embed__" data-doi="{{ doi }}"></span>
+        </div>
+      </div>
+      <h3 class="fs-4">BibTex</h3>
+      <pre><code>{{ paper.bibtex|trim|escape }}</code></pre>
+    </div>
+    </div>
+  {%- endfor %}
+</div>
+{%- endmacro %}
+
+
+{%- macro make_people_list(people) %}
+{# Create a list of people with photos (from GitHub) and other info #}
+  <div class="row gy-3 gx-5 my-5">
+    {%- for person in people %}
+      <div class="col-12 col-sm-6 col-md-4 d-flex align-items-stretch">
+        <div class="card">
+          {%- if person.github is defined %}
+            <img class="card-img-top" src="https://github.com/{{ person.github }}.png" alt="{{ person.name }}'s profile picture">
+          {%- else %}
+            <img class="card-img-top" src="/images/avatar-placeholder.jpg" alt="{{ person.name }}'s profile picture">
+          {%- endif %}
+          <div class="card-body text-center">
+            <h3 class="card-title fs-4" id="{{ person.github }}">{{ person.name }}</h3>
+            <p class="card-text fs-6 mb-1 text-muted">{{ person.affiliation }}</p>
+            <p class="card-text fs-6 mb-1 text-muted">{{ person.role }}</p>
+            {%- if person.pronouns is defined %}
+              <p class="card-text fs-6 mb-1 text-muted">pronouns: {{ person.pronouns }}</p>
+            {%- endif %}
+            <ul class="list-inline fs-5 mb-1">
+              {%- if person.github is defined %}
+              <li class="list-inline-item">
+                <a href="https://github.com/{{ person.github }}"
+                   aria-label="GitHub" title="GitHub" target="_blank">
+                   <i class="fab fa-github" aria-hidden="true"></i>
+                </a>
+              </li>
+              {%- endif %}
+              {%- if person.email is defined %}
+              <li class="list-inline-item">
+                <a href="mailto:{{ person.email }}"
+                   aria-label="email" title="email" target="_blank">
+                   <i class="fa fa-envelope-open" aria-hidden="true"></i>
+                </a>
+              </li>
+              {%- endif %}
+              {%- if person.orcid is defined %}
+              <li class="list-inline-item">
+                <a href="https://orcid.org/{{ person.orcid }}"
+                   aria-label="ORCID" title="ORCID" target="_blank">
+                   <i class="ai ai-orcid" aria-hidden="true"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://impactstory.org/u/{{ person.orcid }}"
+                   aria-label="ImpactStory" title="ImpactStory" target="_blank">
+                   <i class="ai ai-impactstory" aria-hidden="true"></i>
+                </a>
+              </li>
+              {%- endif %}
+              {%- if person.google_scholar is defined %}
+              <li class="list-inline-item">
+                <a href="{{ person.google_scholar }}"
+                   aria-label="Google Scholar" title="Google Scholar" target="_blank">
+                   <i class="ai ai-google-scholar" aria-hidden="true"></i>
+                </a>
+              </li>
+              {%- endif %}
+              {%- if person.researchgate is defined %}
+              <li class="list-inline-item">
+                <a href="{{ person.researchgate }}"
+                   aria-label="ResearchGate" title="ResearchGate" target="_blank">
+                   <i class="ai ai-researchgate" aria-hidden="true"></i>
+                </a>
+              </li>
+              {%- endif %}
+              {%- if person.cv is defined %}
+              <li class="list-inline-item">
+                <a href="{{ person.cv }}"
+                   aria-label="CV" title="CV" target="_blank">
+                   <i class="ai ai-cv" aria-hidden="true"></i>
+                </a>
+              </li>
+              {%- endif %}
+              {%- if person.website is defined %}
+              <li class="list-inline-item">
+                <a href="{{ person.website }}"
+                   aria-label="Website" title="Website" target="_blank">
+                   <i class="fa fa-external-link-square-alt" aria-hidden="true"></i>
+                </a>
+              </li>
+              {%- endif %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    {%- endfor %}
+  </div>
+{%- endmacro %}

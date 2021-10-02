@@ -1,0 +1,60 @@
+# This is the list that populates the team page. Add yourself to the
+# appropriate category.
+#
+# Your profile picture will be loaded from your GitHub account automatically.
+# Required fields: name, role, affiliation
+
+# List of current organiser members
+current:
+  - name: Benjamin Mary
+    role: Organiser
+    affiliation: University of Padua, IT
+    pronouns: he/him
+    github: BenjMy
+    email: benjamin.mary@unipd.it
+    orcid: 0000-0001-7199-2885
+    researchgate: https://www.researchgate.net/profile/Benjamin-Mary-2
+
+
+  - name: Sarah Garré
+    role: Organiser
+    affiliation: Flanders Research Institute for Agriculture, Fisheries and Food
+    github: sarahgarre
+    email: sarah.garre@ilvo.vlaanderen.be
+    orcid: 0000-0001-9025-5282
+    google_scholar: https://scholar.google.com/citations?user=5UdwZcgAAAAJ&hl=en
+    researchgate: https://www.researchgate.net/profile/Sarah-Garre
+    website: https://www.gembloux.ulg.ac.be/echanges-eau-sol-plante/sarah-garre-charge-de-cours/
+
+
+  - name: Guillaume Blanchy
+    role: Organiser
+    affiliation: ILVO
+    github: sagitta1618
+    email: guillaume.blanchy@ilvo.vlaanderen.be
+    orcid: /0000-0001-6341-5826
+    google_scholar: https://scholar.google.com/citations?user=2HPyKh4AAAAJ&hl=nl
+    researchgate: https://www.researchgate.net/profile/Guillaume_Blanchy
+
+
+  - name: Alejandro Romero-Ruiz
+    role: Organiser
+    affiliation: Rothamsted Research
+    email: alejandro.romeroruiz@unil.ch
+    google_scholar: https://scholar.google.com/citations?user=qt_M9EcAAAAJ&hl=en
+    researchgate: https://www.researchgate.net/profile/Alejandro-Romero-Ruiz
+
+
+  - name: Christian von Hebel
+    role: Organiser
+    affiliation: Agro-BioTech, Gembloux, University Liege
+    email: christian.von-hebel@xarvio.com
+    google_scholar: https://scholar.google.com/citations?user=OWERtLQAAAAJ&hl=fr
+    researchgate: https://www.researchgate.net/profile/Chris-Von-Hebel
+
+
+collaborator:
+
+
+
+    
