@@ -8,8 +8,8 @@ favicon: images/logo.png
 logo: images/logo.png
 menu:
   - [Home, index]  
-  - [Committees, committees/index]
-  - [Program, program/index]
+  - [Committees, committees]
+  - [Program, program]
 ignore:
   - README.md
   - config-alternative.json
