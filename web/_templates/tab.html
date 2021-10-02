@@ -23,15 +23,15 @@
   <title>{{ title }}</title>
 
   {%- if config.favicon is defined %}
-  <link rel="shortcut icon" href="{{ config.favicon|e }}"/>
+  <link rel="shortcut icon" href="../{{ config.favicon|e }}"/>
   {%- endif %}
 
   <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="css/bootstrap-5.1/bootstrap.min.css">
+  <link rel="stylesheet" href="/../css/bootstrap-5.1/bootstrap.min.css">
   <!-- FontAwsome icons -->
-  <link rel="stylesheet" href="css/fontawesome/css/all.css">
+  <link rel="stylesheet" href="/../css/fontawesome/css/all.css">
   <!-- Main CSS stylesheet -->
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="/../css/style.css">
 
   {%- block extrahead %}{% endblock %}
 </head>
