@@ -1,6 +1,6 @@
 ---
 title: Program overview
-template: base.html
+template: tab.html
 ---
 
 # {{ page.custom_page_title }}

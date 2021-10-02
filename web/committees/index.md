@@ -1,6 +1,6 @@
 ---
 title: Committees
-template: base.html
+template: tab.html
 ---
 
 {%- import "macros.html" as macros %}
