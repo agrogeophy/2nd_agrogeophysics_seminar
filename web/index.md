@@ -45,7 +45,7 @@ Deadline for submission is ?
 
 ## Program overview
 
-The commity is currently working on the [seminar program](/program).
+The commity is currently working on the [seminar program](program).
 
 
 ## Contact
@@ -73,7 +73,7 @@ We'd love to hear from you if your project or idea could benefit from our
 expertise in data analysis, inverse problems, and research software
 engineering.
 
-**Reach out** to [our team](/committees) to start a conversation!
+**Reach out** to [our team](committees) to start a conversation!
 
 
 ## Previous seminars
