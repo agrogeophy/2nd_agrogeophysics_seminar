@@ -58,7 +58,7 @@ for you.
 <ul class="fa-ul my-5">
 <li>
 <i class="fa-li fa fa-envelope-open fa-fw" aria-hidden="true"></i>
-Email <a href="hello.agrogeophy@gmail.com">hello.agrogeophy@gmail.com</a> or another <a href="/committees">committee member</a> directly.
+Email <a href="hello.agrogeophy@gmail.com">hello.agrogeophy@gmail.com</a> or another <a href="committees">committee member</a> directly.
 </li>
 <li>
 <i class="fa-li fab fa-slack fa-fw" aria-hidden="true"></i>
