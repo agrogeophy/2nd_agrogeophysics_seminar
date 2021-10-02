@@ -8,7 +8,7 @@
     {% set class = class + " active" %}
     {% set aria = 'aria-current="page"' %}
   {% endif %}
-  <a class="{{ class }}" {{ aria }} href="/{{ site[id].path|replace('index.html', '') }}">{{ name }}</a>
+  <a class="{{ class }}" {{ aria }} href="{{ site[id].path|replace('index.html', '') }}">{{ name }}</a>
 {%- endmacro %}
 
 <head>
@@ -40,7 +40,7 @@
   <header class="shadow-sm">
     <nav class="navbar navbar-expand-lg navbar-light" aria-labelledby="primary-navigation">
       <div class="container align-middle">
-        <a class="navbar-brand" href="/">
+        <a class="navbar-brand" href="https://agrogeophy.github.io/2nd_agrogeophysics_seminar/">
           <img aria-hidden="true" alt="Project logo" src="{{ config.logo }}">
           {{ config.site_name }}
         </a>
