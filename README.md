@@ -29,6 +29,7 @@ Roadmap for the organisation of the 2nd agrogeophysics seminar
 - reflexion about data-reuse
 - dataset/code benchmarking
   - ex: inversion of a synthetic dataset simulating RWU, combining different data sources, ...
-
+- soil proximal and remote sensing [@CVH]
+- scalability of soil properties [@CVH]
    
    
