@@ -14,25 +14,25 @@ Roadmap for the organisation of the 2nd agrogeophysics seminar
 
 ## Board
 
-- board invitation - by mid October
+* board invitation - by mid October
     - G. Blanchy
     - A. Romero-Ruiz (Rothamsted)
     - C. Von Hebel (Xarvio)
-- drafting the seminar outline/objectives - by mid October
-- advertisement - by November
+* drafting the seminar outline/objectives - by mid October
+* advertisement - by November
 
 
 ## Ideas 
--Geophysics for soil-plant interactions
-    -- pedophysics
-    -- phenotyping       
--Geophysics for soil mapping and agricultural management support
-    -- soil proximal and remote sensing [@CVH]
-    -- scalability of soil properties [@CVH]
--Data management, codes and standards in agrogeophysics
-    -- reflexion about data-reuse
-    -- dataset/code benchmarking
-        - ex: inversion of a synthetic dataset simulating RWU, combining different data sources, ...
+* Geophysics for soil-plant interactions
+    - pedophysics
+    - phenotyping       
+* Geophysics for soil mapping and agricultural management support
+    - soil proximal and remote sensing [@CVH]
+    - scalability of soil properties [@CVH]
+* Data management, codes and standards in agrogeophysics
+    - reflexion about data-reuse
+    - dataset/code benchmarking
+       (ex: inversion of a synthetic dataset simulating RWU, combining different data sources, ...)
 
 
    
