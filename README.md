@@ -24,11 +24,13 @@ Roadmap for the organisation of the 2nd agrogeophysics seminar
 
 ## Ideas 
 * Geophysics for soil-plant interactions
-    - pedophysics
-    - phenotyping       
+    - bio-pedo-physics
+    - phenotyping
+    - transport process characterization (water, nutrients)     
 * Geophysics for soil mapping and agricultural management support
     - soil proximal and remote sensing [@CVH]
     - scalability of soil properties [@CVH]
+    - irrigation, soil compaction, fertilization
 * Data management, codes and standards in agrogeophysics
     - reflexion about data-reuse
     - dataset/code benchmarking
