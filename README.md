@@ -23,13 +23,17 @@ Roadmap for the organisation of the 2nd agrogeophysics seminar
 
 
 ## Ideas 
+-Geophysics for soil-plant interactions
+    -- pedophysics
+    -- phenotyping       
+-Geophysics for soil mapping and agricultural management support
+    -- soil proximal and remote sensing [@CVH]
+    -- scalability of soil properties [@CVH]
+-Data management, codes and standards in agrogeophysics
+    -- reflexion about data-reuse
+    -- dataset/code benchmarking
+        - ex: inversion of a synthetic dataset simulating RWU, combining different data sources, ...
 
-- overview of current ongoing research projects (organize afterwards in subthemes depending on submissions?)
-- pedophysics?
-- reflexion about data-reuse
-- dataset/code benchmarking
-  - ex: inversion of a synthetic dataset simulating RWU, combining different data sources, ...
-- soil proximal and remote sensing [@CVH]
-- scalability of soil properties [@CVH]
+
    
    
