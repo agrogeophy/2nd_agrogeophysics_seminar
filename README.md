@@ -35,6 +35,8 @@ Roadmap for the organisation of the 2nd agrogeophysics seminar
     - reflexion about data-reuse
     - dataset/code benchmarking
        (ex: inversion of a synthetic dataset simulating RWU, combining different data sources, ...)
+* Frontiers topic to agrogeophysic:
+    - soil processes like carbon and nitrogen cycling
 
 
    
