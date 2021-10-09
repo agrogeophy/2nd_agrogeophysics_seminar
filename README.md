@@ -38,6 +38,9 @@ Roadmap for the organisation of the 2nd agrogeophysics seminar
 * Frontiers topic to agrogeophysic:
     - soil processes like carbon and nitrogen cycling
 
+## To-do
+
+- [ ] Update the website (Logo,...)
 
    
    
