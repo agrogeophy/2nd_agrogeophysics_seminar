@@ -1,4 +1,4 @@
-# 2nd_agrogeophysics_seminar
+# 2️⃣nd agrogeophysics seminar 🚀
 
 ## Website
 https://agrogeophy.github.io/2nd_agrogeophysics_seminar/
