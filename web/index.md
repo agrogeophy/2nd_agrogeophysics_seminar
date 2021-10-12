@@ -12,7 +12,7 @@ template: base.html
 # {{ page.custom_page_title }}
 
 <p class="lead">
-Want to join?
+Agrogeophysics is an emerging research field. What are the applications, potential and future research needs? Come and discover with us.
 </p>
 
 </div>
@@ -23,13 +23,13 @@ Want to join?
 
 
 ## Brussel, Belgium and ONLINE
+Want to join?
 
-Agrogeophysics is an emerging research field. What are the applications, potential and future research needs? Come and discover with us.
 
 ## Key dates and registration
 
-* **Arrival + conference dinner:** Thursday evening 10/3/2022
-* **Seminar day:** Friday 11 March 2022
+* 🛬 **Arrival + conference dinner:** Thursday evening 10/3/2022
+* 📅 **Seminar day:** Friday 11 March 2022
 
 
 <div class="callout callout-warning">
@@ -65,6 +65,39 @@ Email <a href="hello.agrogeophy@gmail.com">hello.agrogeophy@gmail.com</a> or ano
 Find us on the <a href="/https://agrogeophy.slack.com/">Agrogeophy</a> Slack.
 </li>
 </ul>
+
+## Sponsors 🙌
+
+<style>
+img {
+  border-radius: 4px;
+  width: 150px;
+}
+
+#envitam {
+  width: 450px;
+}
+</style>
+
+
+<div class="callout">
+ The seminar received financial support from:
+
+<p>
+<ul>
+  <li> The <a href="http://www.soilbelgium.be/"> Soil Science Society of Belgium (SSSB) </a> – Topical committee II. </li>
+  <li> The Soil physics and hydrology and ENVITAM doctoral school </li>
+</ul>
+
+<img id=envitam src="images/logo_envitam.png"
+     alt="ENVITAM">
+<img src="images/logotransp.png"
+     alt="SSSB">
+     
+</p>
+</div>
+
+
 
 ## Collaborations
 

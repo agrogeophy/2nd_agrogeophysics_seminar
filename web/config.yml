@@ -4,8 +4,8 @@ description: Agrogeophysic 2nd seminar website
 author: Benjamin Mary
 language: en
 repository: agrogeophy/2nd_agrogeophysics_seminar
-favicon: images/logo.png
-logo: images/logo.png
+favicon: images/Garre_drawing1.png
+logo: images/Garre_drawing2.png
 menu:
   - [Home, index]  
   - [Committees, committees]
