@@ -1,5 +1,5 @@
 ---
-custom_page_title: "2nd agrogeophysic seminar"
+custom_page_title: "2nd agrogeophysics seminar"
 exclude_h1: true
 template: base.html
 ---
@@ -22,7 +22,7 @@ Agrogeophysics is an emerging research field. What are the applications, potenti
 </div>
 
 
-## Brussel, Belgium and ONLINE
+## Brussels, Belgium & online
 Want to join?
 
 
@@ -45,7 +45,7 @@ Deadline for submission is ?
 
 ## Program overview
 
-The commity is currently working on the [seminar program](program).
+The committee is currently working on the call for abstracts and will then assemble a [seminar program](program).
 
 
 ## Contact
@@ -66,6 +66,24 @@ Find us on the <a href="/https://agrogeophy.slack.com/">Agrogeophy</a> Slack.
 </li>
 </ul>
 
+## Collaborations
+
+We're always interested in new collaborations and interesting projects.
+We'd love to hear from you if your project or idea could benefit from our
+expertise in monitoring, data analysis, inverse problems, and research software
+engineering.
+
+**Reach out** to [our team](committees) to start a conversation!
+
+## Previous seminars
+
+<p class="lead">
+- 2020 <a href="http://www.soilbelgium.be/?p=3596">in Gembloux</a>
+Geophysics conquering new territories: The rise of “agrogeophysics”
+{{ macros.make_publication_list(page.papers) }}
+
+</p>
+
 ## Sponsors 🙌
 
 <style>
@@ -81,12 +99,11 @@ img {
 
 
 <div class="callout">
- The seminar received financial support from:
-
+The seminar is supported by
 <p>
 <ul>
-  <li> The <a href="http://www.soilbelgium.be/"> Soil Science Society of Belgium (SSSB) </a> – Topical committee II. </li>
-  <li> The Soil physics and hydrology and ENVITAM doctoral school </li>
+  <li> The <a href="http://www.soilbelgium.be/"> Soil Science Society of Belgium (SSSB) </a> – Topical committee II.Soil physics and hydrology </li>
+  <li> ENVITAM doctoral school </li>
 </ul>
 
 <img id=envitam src="images/logo_envitam.png"
@@ -96,28 +113,5 @@ img {
      
 </p>
 </div>
-
-
-
-## Collaborations
-
-We're always interested in new collaborations and interesting projects.
-We'd love to hear from you if your project or idea could benefit from our
-expertise in data analysis, inverse problems, and research software
-engineering.
-
-**Reach out** to [our team](committees) to start a conversation!
-
-
-## Previous seminars
-
-<p class="lead">
-- 2020 <a href="http://www.soilbelgium.be/?p=3596">in Gembloux</a>
-Geophysics conquering new territories: The rise of “agrogeophysics”
-{{ macros.make_publication_list(page.papers) }}
-
-</p>
-
-
 
 
