@@ -48,7 +48,7 @@ current:
   - name: Alejandro Romero-Ruiz
     role: Organiser
     affiliation: Rothamsted Research
-    email: alejandro.romeroruiz@unil.ch
+    email: alejandro.romero-ruiz@rothamsted.ac.uk
     google_scholar: https://scholar.google.com/citations?user=qt_M9EcAAAAJ&hl=en
     researchgate: https://www.researchgate.net/profile/Alejandro-Romero-Ruiz
 
@@ -56,6 +56,7 @@ current:
   - name: Christian von Hebel
     role: Organiser
     affiliation: Agro-BioTech, Gembloux, University Liege
+    github: cvonhebel
     email: christian.von-hebel@xarvio.com
     google_scholar: https://scholar.google.com/citations?user=OWERtLQAAAAJ&hl=fr
     researchgate: https://www.researchgate.net/profile/Chris-Von-Hebel
