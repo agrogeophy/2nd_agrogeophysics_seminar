@@ -22,14 +22,26 @@ Agrogeophysics is an emerging research field. What are the applications, potenti
 </div>
 
 
-## Brussels, Belgium & online
-Want to join?
+## Brussels, Belgium*
+Want to join? [Register now](link2eventhere)
 
+*and streamed online 
+<hr>
 
 ## Key dates and registration
 
-* 🛬 **Arrival + conference dinner:** Thursday evening 10/3/2022
-* 📅 **Seminar day:** Friday 11 March 2022
+* **Abtract submission** December 10th, 2022
+
+
+* **Registration** 
+	- deadline: February 4th, 2022
+	- fees: 20€ for Phds, 10€ for master students, 50€ for all other cases
+	
+* **Final program and decision** January 31st, 2022
+
+* 🛬 **Arrival + conference dinner:** Thursday evening March 10th, 2022
+
+* 📅 **Seminar day:** Friday March 11th, 2022
 
 
 <div class="callout callout-warning">
@@ -38,15 +50,17 @@ Want to join?
 **WARNING!**
 <i class="fa fa-exclamation-triangle text-danger" aria-hidden="true"></i>
 
-Deadline for submission is ?
+Please follow the guidelines on [this page](abstracts) for the submission of your abstract. The abstract submission deadline is **Wednesday, 10 December 2022, 13:00 CET**. 
 
 </div>
 
+<hr>
 
 ## Program overview
 
-The committee is currently working on the call for abstracts and will then assemble a [seminar program](program).
+The committee is currently working on the call for abstracts and will then assemble a final by January 31st [seminar program](program).
 
+<hr>
 
 ## Contact
 
@@ -66,23 +80,7 @@ Find us on the <a href="/https://agrogeophy.slack.com/">Agrogeophy</a> Slack.
 </li>
 </ul>
 
-## Collaborations
-
-We're always interested in new collaborations and interesting projects.
-We'd love to hear from you if your project or idea could benefit from our
-expertise in monitoring, data analysis, inverse problems, and research software
-engineering.
-
-**Reach out** to [our team](committees) to start a conversation!
-
-## Previous seminars
-
-<p class="lead">
-- 2020 <a href="http://www.soilbelgium.be/?p=3596">in Gembloux</a>
-Geophysics conquering new territories: The rise of “agrogeophysics”
-{{ macros.make_publication_list(page.papers) }}
-
-</p>
+<hr size="30" noshade> 
 
 ## Sponsors 🙌
 
@@ -113,5 +111,30 @@ The seminar is supported by
      
 </p>
 </div>
+
+<hr>
+
+## Previous seminars
+
+<p class="lead">
+- 2020 <a href="http://www.soilbelgium.be/?p=3596">in Gembloux</a>
+Geophysics conquering new territories: The rise of “agrogeophysics”
+{{ macros.make_publication_list(page.papers) }}
+
+</p>
+
+<hr>
+
+## Collaborations
+
+We're always interested in new collaborations and interesting projects.
+We'd love to hear from you if your project or idea could benefit from our
+expertise in monitoring, data analysis, inverse problems, and research software
+engineering.
+
+**Reach out** to [our team](committees) to start a conversation!
+
+
+
 
 

@@ -8,8 +8,9 @@ favicon: images/Garre_drawing1.png
 logo: images/Garre_drawing2.png
 menu:
   - [Home, index]  
-  - [Committees, committees]
+  - [Committee, committees]
   - [Program, program]
+  - [<font color="green"> Submit your abstract </font>, abstracts]
 ignore:
   - README.md
   - config-alternative.json
