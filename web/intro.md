@@ -1,3 +1,12 @@
+---
+custom_page_title: "2nd agrogeophysics seminar"
+exclude_h1: true
+template: base.html
+---
+{%- import "macros.html" as macros %}
+
+
+
 # About this event
 
 After the success of the first edition '*Geophysics & Agriculture: the perfect match?*' in 2020, we are pleased, 2 years later, to follow up with this 2nd edition and give to the community a new opportunity to exchange and gather their experience about current trending topics.
