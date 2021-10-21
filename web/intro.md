@@ -17,6 +17,6 @@ When applied to agriculture, geophysics targets physical quantities (resistivity
 * *Geophysics for soil mapping and agricultural management support*: studies demonstrating current progress for soil mapping and agricultural management support from soil proximal to remote sensing. We expect the contribution to this topic to offer insights on how to properly define the spatial and temporal resolution and extension of the geophysical methods to be able to catch the overall system dynamically;
 * *Frontiers topic to agrogeophysics*: studies showing the potential of geophysical methods to highlight soil processes like carbon and nitrogen cycling.
 
-In an **interactive session**  we will work with those interested on some of the new initiatives in data management, codes integration, and standards in agrogeophysics and will encourage the gathering of petrophysical data. 
+In an **interactive session**  we will work with those interested on some of the new initiatives in data management, codes integration, and standards in agrogeophysics and will encourage the gathering of pedophysical data. 
 
 We particularly welcome engagement of early-career scientists who are interested to work across groups, scales, and disciplines.
