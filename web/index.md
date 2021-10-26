@@ -72,7 +72,7 @@ Please follow the guidelines on [this page](abstracts) for the submission of you
 
 _After the success of the first edition '*Geophysics & Agriculture: the perfect match?*' in 2020, we are pleased to give you all a new opportunity to exchange knowledge, good practices, and passion on current trending topics in agrogeophysics_.
 
-<a class="btn btn-primary" href="/program" role="button">Read more</a>
+<a class="btn btn-primary" href="/2nd_agrogeophysics_seminar/program" role="button">Read more</a>
 
 </div>
 
