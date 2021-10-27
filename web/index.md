@@ -44,7 +44,7 @@ Want to join?
 
 * **Registration** 
 	- deadline: February 4th, 2022
-	- fees: 20€ for Phds, 10€ for master students, 50€ for all other cases
+	- fees: **20€** for Phds, **10€** for master students, **40€** for all other cases
 	
 * **Final program and decision** January 31st, 2022
 
