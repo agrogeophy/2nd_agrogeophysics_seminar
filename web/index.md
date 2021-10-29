@@ -39,7 +39,7 @@ Want to join?
 
 ## Key dates and registration
 
-* **Abtract submission** December 10th, 2022
+* **Abtract submission** December 10th, 2021
 
 
 * **Registration** 
@@ -56,7 +56,7 @@ Want to join?
 <div class="callout callout-warning">
 
 <i class="fa fa-exclamation-triangle text-danger" aria-hidden="true"></i>
-**Abtract submission**
+**Abstract submission**
 <i class="fa fa-exclamation-triangle text-danger" aria-hidden="true"></i>
 
 Please follow the guidelines on [this page](abstracts) for the submission of your abstract. The abstract submission deadline is **Wednesday, 10 December 2022, 13:00 CET**. 
@@ -79,7 +79,7 @@ _After the success of the first edition '*Geophysics & Agriculture: the perfect 
 
 ### Program overview
 
-The committee is currently working on the call for abstracts and will then assemble a final by January 31st [seminar program](program).
+The committee is currently working on the call for abstracts and will then assemble a final program by January 31st [seminar program](program).
 
 <hr>
 
