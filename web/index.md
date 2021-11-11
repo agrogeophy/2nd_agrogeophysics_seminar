@@ -39,7 +39,7 @@ Want to join?
 
 ## Key dates and registration
 
-* **Abtract submission** December 10th, 2021
+* **Abstract submission** December 10th, 2021
 
 
 * **Registration** 
@@ -59,7 +59,7 @@ Want to join?
 **Abstract submission**
 <i class="fa fa-exclamation-triangle text-danger" aria-hidden="true"></i>
 
-Please follow the guidelines on [this page](abstracts) for the submission of your abstract. The abstract submission deadline is **Wednesday, 10 December 2022, 13:00 CET**. 
+Please follow the guidelines on [this page](abstracts) for the submission of your abstract. The abstract submission deadline is **Wednesday, 10 December 2021, 13:00 CET**. 
 
 </div>
 
