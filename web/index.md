@@ -97,9 +97,11 @@ Email <a href="hello.agrogeophy@gmail.com">hello.agrogeophy@gmail.com</a> or ano
 </li>
 <li>
 <i class="fa-li fab fa-slack fa-fw" aria-hidden="true"></i>
-Find us on the <a href="/https://agrogeophy.slack.com/">Agrogeophy</a> Slack.
+Find us on the <a href="https://agrogeophy.slack.com/">Agrogeophy</a> Slack.
 </li>
 </ul>
+
+
 
 <hr size="3" noshade> 
 
