@@ -26,7 +26,7 @@ In an **interactive session**  we will work with those interested in some of the
 
 
 ## Speakers
-### Confirmed invited talks
+#### Invited talks
 *Russell Swift* | @Geo_RussS
 
 Electrical Resistivity Tomography as a monitoring tool for rain-fed agricultural hydrodynamics in southern African Alfisols.
