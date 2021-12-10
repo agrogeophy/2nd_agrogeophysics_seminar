@@ -27,11 +27,11 @@ In an **interactive session**  we will work with those interested in some of the
 
 ## Speakers
 ### Confirmed invited talks
-*Russell Swift* @Geo_RussS
+*Russell Swift* | @Geo_RussS
 
 Electrical Resistivity Tomography as a monitoring tool for rain-fed agricultural hydrodynamics in southern African Alfisols.
 
-*Triven Koganti* @KogantiTriven
+*Triven Koganti* | @KogantiTriven
 
 Mapping of Agricultural Subsurface Drainage Systems Using Proximal and Remote Sensors. 
 
@@ -39,7 +39,7 @@ Mapping of Agricultural Subsurface Drainage Systems Using Proximal and Remote Se
 
 Cosmic-ray neutron sensing in support of precision irrigation or: how a fairly simple question yields a puzzling answer.
 
-*Dave O'Leary* @BiggusDaveus
+*Dave O'Leary* | @BiggusDaveus
 
 Large Scale EMI Survey linking Electrical Conductivity to Soil Type Properties using Machine Learning Classification Methods.
 
