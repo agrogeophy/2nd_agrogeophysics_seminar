@@ -1,3 +1,25 @@
+# December 15, 2021
+
+Participants: Alejandro, Ellen, Ben, Sarah, Cris
+
+---
+12 abstracts submitted (2 are asking for poster)
+Deadline extension to: 17th of January
+Deadline for email: before Christmas
+
+- [ ]  _CVH_ send email deadline extension --> possibility to present online
+- [ ]  _BM_ update website with program + interactive session
+- [ ]  _BM, GB_ make a proposal for interactive session
+
+
+Program main sessions: 
+- Mapping methods: 3
+- Applications to Agricultural practices: 3
+- Soil compaction and soil water dynamics: 3
+- Emerging applications/methods: 3
+
+New meeting on January 18th, 5pm CET.
+
 # October 15, 2021
 ## Organizing comitee kick-off meeting 🚀
 
