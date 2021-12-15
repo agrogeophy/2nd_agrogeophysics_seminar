@@ -4,6 +4,8 @@ Participants: Alejandro, Ellen, Ben, Sarah, Cris
 
 ---
 12 abstracts submitted (2 are asking for poster)
+https://docs.google.com/document/d/1na50a7wBRggGiYXRZHFG7rAuyhRPrCxH09DcfFFs_fc/edit?usp=sharing
+
 Deadline extension to: 17th of January
 Deadline for email: before Christmas
 
