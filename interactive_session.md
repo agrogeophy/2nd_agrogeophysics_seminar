@@ -2,6 +2,15 @@
 (2nd agrogeophysics seminar)
 
 
+## 0. Hackathon
+
+- suggest some issues that they want to dig to
+- people work in groups and codes or not
+
+Format (see: https://www.hackforearth.com/challenges)
+1. Idees generation
+2. Id ..
+
 ## 1. Catalog of Agrogeophysical studies
 
 - tuto video introducing the general concepts: submission, filtering, visualisation, export
