@@ -19,10 +19,10 @@ The seminar would be hydrib with:
 	-  Do we need a separate room? special ressources?
 
 - [ ] _SG_ Create an **eventbright** for the seminar registration
-	- Set the fees to **50€, 20€ for Phds, 10€ for master students****
+	- Set the fees to **50€, 20€ for Phds, 10€ for master students**
 
 - [ ] _EVDV, ARR_ Prepare a google form for the abstract submission 
-	- abstract submission deadline: **December 10th**
+	- abstract submission deadline: **December 10th, 2022**
 	- content: 
 		- preference between poster/oral/ no preference
 		- Comitte will come back to you on ?? with the final agenda 

@@ -9,7 +9,13 @@ template: base.html
 <div class="row mb-3 align-items-center">
 <div class="col-md-9 col-sm-8 col-8">
 
+<!--
 # {{ page.custom_page_title }}
+-->
+
+# Agriculture and geophysics: an electrical meeting!
+
+
 
 <p class="lead">
 Agrogeophysics is an emerging research field. What are the applications, potential and future research needs? Come and discover with us.
@@ -23,9 +29,11 @@ Agrogeophysics is an emerging research field. What are the applications, potenti
 
 
 ## Brussels, Belgium*
+*and streamed online 
+
 Want to join? [Register now](link2eventhere)
 
-*and streamed online 
+
 <hr>
 
 ## Key dates and registration
@@ -55,6 +63,11 @@ Please follow the guidelines on [this page](abstracts) for the submission of you
 </div>
 
 <hr>
+
+## Introduction
+
+read more button
+
 
 ## Program overview
 

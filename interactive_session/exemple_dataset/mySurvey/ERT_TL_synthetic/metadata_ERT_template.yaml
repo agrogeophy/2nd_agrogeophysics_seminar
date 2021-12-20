@@ -1,0 +1,52 @@
+dataset_title: Electrical resistivity tomography of irrigation event on potato in Belgium
+authors: [Garre, Manhaeghe]
+time_lapse: True
+
+
+data:
+- ERT:
+  datetime: 2020-03-12
+  gps: Belgium
+  instrument: syscal
+  who: Garre
+  description: Electrical resistivity tomography of irrigation event on potato in Belgium
+  processing_notes:
+  extensions:
+    raw: Data
+    processed: dat
+    inv: data.txt
+    convenient_format: csv
+    figures: 
+    comments: {
+    }
+
+
+- Weather:
+  description: my meteo data
+  singles: [Meteo 2018 KVE ERT.xlsx,Meteo_2018_KVE_ERT]
+  groups:
+
+- Pictures:
+  description:
+  singles:
+  groups:
+
+- Figures:
+  description:
+  singles:
+  groups:
+
+- Soil:
+  description:
+  singles:
+  groups:
+ 
+- TDR:
+  description:
+  singles: WC_T_KVE2018.txt
+  groups:
+
+- Others:
+  description:
+  singles: [minv_NR_0.1.npz,inv_0.npz]
+  groups:
