@@ -31,19 +31,20 @@ Agrogeophysics is an emerging research field. What are the applications, potenti
 ## Brussels, Belgium*
 *and streamed online 
 
-Want to join? [Register now](link2eventhere)
+Want to join? 
+### [Register now](https://www.eventbrite.com/e/2nd-agrogeophysics-seminar-tickets-192657412507)
 
 
 <hr>
 
 ## Key dates and registration
 
-* **Abtract submission** December 10th, 2022
+* **Abstract submission** December 10th, 2021
 
 
 * **Registration** 
 	- deadline: February 4th, 2022
-	- fees: 20€ for Phds, 10€ for master students, 50€ for all other cases
+	- fees: **20€** for Phds, **10€** for master students, **40€** for all other cases
 	
 * **Final program and decision** January 31st, 2022
 
@@ -55,23 +56,30 @@ Want to join? [Register now](link2eventhere)
 <div class="callout callout-warning">
 
 <i class="fa fa-exclamation-triangle text-danger" aria-hidden="true"></i>
-**WARNING!**
+**Abstract submission**
 <i class="fa fa-exclamation-triangle text-danger" aria-hidden="true"></i>
 
-Please follow the guidelines on [this page](abstracts) for the submission of your abstract. The abstract submission deadline is **Wednesday, 10 December 2022, 13:00 CET**. 
+Please follow the guidelines on [this page](abstracts) for the submission of your abstract. The abstract submission deadline is **Wednesday, 10 December 2021, 13:00 CET**. 
 
 </div>
 
 <hr>
 
-## Introduction
-
-read more button
+## About this event
 
 
-## Program overview
+<div class="callout callout-success">
 
-The committee is currently working on the call for abstracts and will then assemble a final by January 31st [seminar program](program).
+_After the success of the first edition '*Geophysics & Agriculture: the perfect match?*' in 2020, we are pleased to give you all a new opportunity to exchange knowledge, good practices, and passion on current trending topics in agrogeophysics_.
+
+<a class="btn btn-primary" href="/2nd_agrogeophysics_seminar/program" role="button">Read more</a>
+
+</div>
+
+
+### Program overview
+
+The committee is currently working on the call for abstracts and will then assemble a final program by January 31st [seminar program](program).
 
 <hr>
 
@@ -89,11 +97,13 @@ Email <a href="hello.agrogeophy@gmail.com">hello.agrogeophy@gmail.com</a> or ano
 </li>
 <li>
 <i class="fa-li fab fa-slack fa-fw" aria-hidden="true"></i>
-Find us on the <a href="/https://agrogeophy.slack.com/">Agrogeophy</a> Slack.
+Find us on the <a href="https://agrogeophy.slack.com/">Agrogeophy</a> Slack.
 </li>
 </ul>
 
-<hr size="30" noshade> 
+
+
+<hr size="3" noshade> 
 
 ## Sponsors 🙌
 
