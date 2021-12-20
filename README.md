@@ -41,8 +41,8 @@ Roadmap for the organisation of the 2nd agrogeophysics seminar
 ## To-do
 
 - [x] Update the website (Logo,...)
-- [ ] Prepare a **preregistration form** (helping to define the final schedule) including:
-    - vote for discussion and benchmarking themes 
+- <s> [ ] Prepare a **preregistration form** (helping to define the final schedule) including:
+    - vote for discussion and benchmarking themes <\s>
 
    
    
