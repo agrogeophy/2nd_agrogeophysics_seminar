@@ -2,8 +2,14 @@
 
 The use of geophysics for agronomy has rapidly increased in recent years. However, little attention has been paid to supporting the management of such heterogeneous data. There would be significant value gained and costs saved across academic research if geophysical users were to address key challenges to move towards  FAIR data management in the near future.
 
-The Catalog of [AgroGeophysical Studies](https://agrogeophy.github.io/catalog/) paves the way towards more open science and FAIR data/survey practises. This portal is providing a service to the community to make on which we can build for future research. The current weakness is the lack of community formalisation of these metadata.
-In this interactive hackathon session, we will work on 3 grand challenges, develop ideas and implement them in small teams. We believe in research community efforts and value your contribution! Ideas and contributors will be publicly available in the github page.
+The Catalog of [AgroGeophysical Studies](https://agrogeophy.github.io/catalog/) paves the way towards more open science and FAIR data/survey practises. This portal is providing a service to the community by putting together a database/catalog of agrogeophysical surveys on which we can build for future research. The current weakness is the lack of community formalisation of the metadata.
+
+
+In this interactive hackathon session, we will work on 3 challenges, develop ideas and implement them in small teams. 
+
+<div class="callout callout-warning">
+We believe in research community efforts and value your contribution! Ideas and contributors will be publicly available in the github page.
+</div>
 
  
 ## Challenges
