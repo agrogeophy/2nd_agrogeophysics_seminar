@@ -15,13 +15,13 @@ All-times are CET time.
 9:45 Mapping of Agricultural Subsurface Drainage Systems Using Proximal and Remote Sensors - Koganti et al. (invited)
 
  |
-|  10:00 - 11:00 | **Coffee ☕ and poster session**10:30 Joint inversion approach for soil compaction characterization - Carrera et al.
+|  10:00 - 11:00 | **Coffee ☕ and poster session**Joint inversion approach for soil compaction characterization - Carrera et al.
 
-10:45 Modeling soil structure spatio-temporal dynamics and geophysical signatures of compacted soils - Romero-Ruiz et al.
+Modeling soil structure spatio-temporal dynamics and geophysical signatures of compacted soils - Romero-Ruiz et al.
 
-11:00 EMI characterization in mountain catchments: multi-frequency versus multi-coil inversion using EMagPy - Blanchy et al. 
+EMI characterization in mountain catchments: multi-frequency versus multi-coil inversion using EMagPy - Blanchy et al. 
 
-11:15 The potential of geophysics for field phenotyping - Garré et al. 
+The potential of geophysics for field phenotyping - Garré et al. 
 
  |
 |  11:00 - 12:00 | **Oral block II** - *Conveners Sarah Garré and Alejandro Romero-Ruiz*11:00 Sensing of roots at the field scale using spectral electrical impedance tomography (tbd) - Michels et al.
@@ -34,7 +34,19 @@ All-times are CET time.
 
  |
 |  *12:00 - 13:00*  | 🍟 Lunch |
-|  13:00 - 16:30 | Interactive session/hackathon / … - *Conveners Guillaume Blanchy and Benjamin Mary*
+|  13:00 - 16:30 | **Interactive session hackathon** - *Conveners Guillaume Blanchy and Benjamin Mary*Start: a quick overview of CAGS
 
-TO BE SPECIFIED |
+Phase 1: idea generation to answer the challenges listed below (1/2h)
+
+Phase 2: idea development (1h30)
+
+**☕** coffee break
+
+Phase 3: idea implementation (1h)
+
+**☕** coffee break
+
+Phase 4: pitch of team results to an expert panel and the public (30-45 min)
+
+ |
 |  16:30 - 18:00 | Teams pitch their work and we end we drinks and fingerfood. :-) |
