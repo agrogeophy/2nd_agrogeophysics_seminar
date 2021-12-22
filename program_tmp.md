@@ -49,4 +49,4 @@ Phase 3: idea implementation (1h)
 Phase 4: pitch of team results to an expert panel and the public (30-45 min)
 
  |
-|  16:30 - 18:00 | Teams pitch their work and we end we drinks and fingerfood. :-) |
+|  16:30 - 18:00 | Teams pitch their work and we end we drink and fingerfood. :-) |
