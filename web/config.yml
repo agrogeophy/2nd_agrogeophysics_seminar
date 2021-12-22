@@ -9,8 +9,10 @@ logo: images/Garre_drawing2.png
 menu:
   - [Home, index]  
   - [Committee, committees]
-  - [Program, program]
-  - [<font color="green"> Submit your abstract </font>, abstracts]
+  - [About, about]
+  - [Agenda, program_tmp]
+  - [<font color="red"> Hackathon </font>, interactive_session ]
+  - [<font color="green"> Submit your abstract</font>, abstracts]
 ignore:
   - README.md
   - config-alternative.json
