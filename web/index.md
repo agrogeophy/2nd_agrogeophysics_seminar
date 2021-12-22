@@ -39,7 +39,10 @@ Want to join?
 
 ## Key dates and registration
 
-* **Abstract submission** December 10th, 2021
+* **Abstract submission** <strike>
+December 10th, 2021
+</strike> Extension to February 4th, 2022 ONLY for poster presentation
+
 
 
 * **Registration** 
@@ -59,7 +62,9 @@ Want to join?
 **Abstract submission**
 <i class="fa fa-exclamation-triangle text-danger" aria-hidden="true"></i>
 
-Please follow the guidelines on [this page](abstracts) for the submission of your abstract. The abstract submission deadline is **Wednesday, 10 December 2021, 13:00 CET**. 
+Please follow the guidelines on [this page](abstracts) for the submission of your abstract. The abstract submission deadline is **Wednesday, <strike>
+December 10th, 2021
+</strike> Extension to February 4th, 2022 ONLY for poster presentation**.  
 
 </div>
 

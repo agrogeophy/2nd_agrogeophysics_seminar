@@ -15,43 +15,44 @@ When applied to agriculture, geophysics targets physical quantities (resistivity
 
 In the last years, particular attention has been devoted to the development of small-scale studies conducted on a single plant with the aim to translate geophysical observations to state variables governing the soil-plant interactions. On the other hand, we observed a momentum for larger-scale Geophysics using soil proximal to remote sensing in order to map and support agricultural decisions. Yet, although mainly focused on water management issues, agrogeophysics is not limited to and emerging frontiers topics show the potential of geophysical methods to highlight soil processes like carbon and nitrogen cycling.
 
-## 📝 
+
+# <center>  📝 </center>
 
 You can submit any research related to agrogeophysics. We particularly welcome engagement of early-career scientists who are interested to work across groups, scales, and disciplines.
 
-## 📈 
+# <center>  📈 </center>
 
 In an **interactive session**  we will work with those interested in some of the new initiatives in data management, codes integration, and standards in agrogeophysics and will encourage the gathering of pedophysical data. 
 
 
 
-## Speakers
-#### Invited talks
-*Russell Swift* | @Geo_RussS
+## Invited talks
 
-Electrical Resistivity Tomography as a monitoring tool for rain-fed agricultural hydrodynamics in southern African Alfisols.
+<center>  
 
-*Triven Koganti* | @KogantiTriven
+#### **Daniela Vanella** | @vanielas
 
-Mapping of Agricultural Subsurface Drainage Systems Using Proximal and Remote Sensors. 
-
-*Cosimo Brogi*
-
-Cosmic-ray neutron sensing in support of precision irrigation or: how a fairly simple question yields a puzzling answer.
-
-*Dave O'Leary* | @BiggusDaveus
-
-Large Scale EMI Survey linking Electrical Conductivity to Soil Type Properties using Machine Learning Classification Methods.
+_"Electrical resistivity tomography applications for precision irrigation management"_
 
 
-<div class="callout">
+#### **Russell Swift** | @Geo_RussS
 
-<i class="fa fa-paint-roller fa-lg me-2" aria-hidden="true"></i>
-**Under construction.**
+_"Electrical Resistivity Tomography as a monitoring tool for rain-fed agricultural hydrodynamics in southern African Alfisols."_
 
-Final program: **End of January**
- 
-</div>
+#### **Triven Koganti** | @KogantiTriven
+
+_"Mapping of Agricultural Subsurface Drainage Systems Using Proximal and Remote Sensors."_
+
+#### **Cosimo Brogi**
+
+_"Cosmic-ray neutron sensing in support of precision irrigation or: how a fairly simple question yields a puzzling answer."_
+
+#### **Dave O'Leary** | @BiggusDaveus
+
+_"Large Scale EMI Survey linking Electrical Conductivity to Soil Type Properties using Machine Learning Classification Methods."_
+
+</center>
+
 
 
 
