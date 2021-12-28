@@ -150,7 +150,7 @@ Final program: **End of January**
   </tr>
   <tr>
     <td class="tg-c3ow">16:30 - 18:00</td>
-    <td class="tg-0pky">Teams pitch their work and we end we drinks and fingerfood. :-)</td>
+    <td class="tg-0pky">Teams pitch their work and we end we drink and fingerfood. :-)</td>
   </tr>
 </tbody>
 </table>
