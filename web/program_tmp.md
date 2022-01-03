@@ -46,7 +46,7 @@ Final program: **End of January**
     <td class="tg-fymr"><span style="font-weight:400;font-style:normal">🧊 Icebreaker conference dinner</span></td>
   </tr>
   <tr>
-    <td class="tg-n533" colspan="2">Fri 11/03 - Palace of the royal academies</td>
+    <td class="tg-n533" colspan="2">Fri 11/03 - Palace of the Royal Academies</td>
   </tr>
   <tr>
     <td class="tg-c3ow">8:30 - 9:00</td>
@@ -126,11 +126,11 @@ Final program: **End of January**
   </tr>
   <tr>
     <td class="tg-c3ow"></td>
-    <td class="tg-0pky">Phase 1: idea generation to answer the challenges listed below (1/2h)</td>
+    <td class="tg-0pky">Phase 1: Idea generation to answer the challenges listed below (30min)</td>
   </tr>
   <tr>
     <td class="tg-c3ow"></td>
-    <td class="tg-0pky">Phase 2: idea development (1h30)</td>
+    <td class="tg-0pky">Phase 2: Idea development (1h30)</td>
   </tr>
   <tr>
     <td class="tg-c3ow"></td>
@@ -138,7 +138,7 @@ Final program: **End of January**
   </tr>
   <tr>
     <td class="tg-c3ow"></td>
-    <td class="tg-0pky">Phase 3: idea implementation (1h)</td>
+    <td class="tg-0pky">Phase 3: Idea implementation (1h)</td>
   </tr>
   <tr>
     <td class="tg-c3ow"></td>
@@ -150,7 +150,8 @@ Final program: **End of January**
   </tr>
   <tr>
     <td class="tg-c3ow">16:30 - 18:00</td>
-    <td class="tg-0pky">Teams pitch their work and we end we drink and fingerfood. :-)</td>
+    <td class="tg-0pky">Teams pitch their work </td>
+    <td class="tg-0pky"> Drink and fingerfood. :-)</td>
   </tr>
 </tbody>
 </table>
