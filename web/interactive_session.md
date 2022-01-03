@@ -1,5 +1,5 @@
 ---
-title: 💡 An Electrical Meeting - Hackaton session 💡
+title: 💡 An Electrical Meeting - Hackathon session 💡
 template: base.html
 ---
 
@@ -21,7 +21,7 @@ Final program: **End of January**
 The use of geophysics for agronomy has rapidly increased in recent years. However, little attention has been paid to supporting the management of such heterogeneous data. There would be significant value gained and costs saved across academic research if geophysical users were to address key challenges to move towards FAIR<a href="#section1">[1]</a> data management in the near future.
 </p>
 
-The Catalog of [AgroGeophysical Studies](https://agrogeophy.github.io/catalog/) paves the way towards more open science and FAIR data/survey practises. This portal is providing a service to the community by putting together a database/catalog of agrogeophysical surveys on which we can build for future research. The current weakness is the lack of community formalisation of the metadata.
+The Catalog of [AgroGeophysical Studies](https://agrogeophy.github.io/catalog/) paves the way towards more open science and FAIR data/survey practices. This portal is providing a service to the community by putting together a database/catalog of agrogeophysical surveys on which we can build for future research. The current weakness is the lack of community formalisation of the metadata.
 
 
 In this interactive hackathon session, we will work on 3 challenges, develop ideas and implement them in small teams. 
