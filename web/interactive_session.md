@@ -62,7 +62,8 @@ How can you encourage a non-specialist to use geophysics? Which tools would they
 
 <div class="callout callout-warning">
 
-#### 📌 Check out [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/benjmy/ert_swc_board/main/app.py) our online app and start playing with pedophysical models</a> 
+#### 📌 Check out  our online app and start playing with pedophysical models
+ [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/benjmy/ert_swc_board/main/app.py)
 </div>
 
 
