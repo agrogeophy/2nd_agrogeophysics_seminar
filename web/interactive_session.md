@@ -50,15 +50,24 @@ How can you encourage a non-specialist to use geophysics? Which tools would they
 
 </div>
 
+
+
+
+## Materials 🗂️
+
 <div class="callout callout-warning">
 
 #### 📌 Check out <a href="https://app.mural.co/invitation/mural/agricultureandgeophysicsanel4868/1640111681068?sender=ub1ebcd41182e1f5350b00478&key=c707c4d8-6f4a-450a-ac6a-e44d0b48fcd8" target="_blank"> our online whiteboard</a> 
 </div>
 
+<div class="callout callout-warning">
 
-## Materials 🗂️
+#### 📌 Check out [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/benjmy/ert_swc_board/main/app.py) our online app and start playing with pedophysical models</a> 
+</div>
+
 
 - Literature references
+
 - Videos illustrating the current development in the catalogue (posted in the seminar website before the meeting):
   - Video 1 (in progress): contribute (publication/notebook submission), Findability (filter) and Reuse (export)
   - Video 2 (in progress): prepare a dataset (example with a pedophysical dataset)
