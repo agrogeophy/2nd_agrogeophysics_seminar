@@ -30,7 +30,8 @@ In this interactive hackathon session, we will work on 3 challenges, develop ide
 📢 We believe in research community efforts and value your contribution! Ideas and contributors will be publicly available in the github page.
 </div>
 
- 
+<hr />
+
 ## Challenges
 
 <div class="callout">
@@ -51,37 +52,65 @@ How can you encourage a non-specialist to use geophysics? Which tools would they
 </div>
 
 
-
+<hr />
 
 ## Materials 🗂️
+
+Bring your own dataset or pick one of [ours](https://github.com/agrogeophy/2nd_agrogeophysics_seminar/tree/main/interactive_session/exemple_datasets) to get your hands dirty on the job. You don’t need to be a coder to attend. All ideas and competences are valuable!
 
 <div class="callout callout-warning">
 
 #### 📌 Check out <a href="https://app.mural.co/invitation/mural/agricultureandgeophysicsanel4868/1640111681068?sender=ub1ebcd41182e1f5350b00478&key=c707c4d8-6f4a-450a-ac6a-e44d0b48fcd8" target="_blank"> our online whiteboard</a> 
 </div>
 
+
+<iframe src='https://app.mural.co/embed/a697283b-4852-49d7-8b89-31e04389e0d2'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
+
+
+<br>
+
 <div class="callout callout-warning">
 
 #### 📌 Check out  our online app and start playing with pedophysical models
- [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/benjmy/ert_swc_board/main/app.py)
+
+
+[![streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yourGitHubName/yourRepo/yourApp/)
+
+
+
 </div>
 
 
-- Literature references
+ 
+ <iframe src="https://share.streamlit.io/benjmy/ert_swc_board/main/app.py" width="100%" height="480px">
+  <p>Your browser does not support iframes.</p>
+</iframe>
 
+
+<br>
+<hr />
+
+#### Literature references
+
+<div>
 - Videos illustrating the current development in the catalogue (posted in the seminar website before the meeting):
   - Video 1 (in progress): contribute (publication/notebook submission), Findability (filter) and Reuse (export)
-  - Video 2 (in progress): prepare a dataset (example with a pedophysical dataset)
-
-Bring your own dataset or pick one of [ours](https://github.com/agrogeophy/2nd_agrogeophysics_seminar/tree/main/interactive_session/exemple_datasets) to get your hands dirty on the job. You don’t need to be a coder to attend. All ideas and competences are valuable!
+  - Video 2 (in progress): prepare a dataset (example with a pedophysical dataset) 
+</div>
  
 ## References
 
+<div>
 - <a href="https://agrogeophy.github.io/catalog/" target="_blank">Catalog</a>
 - <a href="https://datenzentrum.bonares.de/research-data.php" target="_blank">Bonares Database</a>
 - <a href="https://www.hydroshare.org/" target="_blank">Hydroshare</a>
 - <a href="https://www.usgs.gov/data-management/overview-data-management " target="_blank">USGS database</a>
-
+</div>
 
 <p id="section1">[1] Findable Accessible Interpolable Reusable </p>
 
