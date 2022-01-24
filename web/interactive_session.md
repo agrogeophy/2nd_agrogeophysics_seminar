@@ -60,7 +60,7 @@ Bring your own dataset or pick one of [ours](https://github.com/agrogeophy/2nd_a
 
 <div class="callout callout-warning">
 
-#### 📌 Check out <a href="https://app.mural.co/invitation/mural/agricultureandgeophysicsanel4868/1640111681068?sender=ub1ebcd41182e1f5350b00478&key=c707c4d8-6f4a-450a-ac6a-e44d0b48fcd8" target="_blank"> our online whiteboard</a> 
+#### 📌 Check out <a href="https://app.mural.co/t/agricultureandgeophysicsanel4868/m/agricultureandgeophysicsanel4868/1642978254428/a4400c7ebb551658df7a2144d86b212c2f07a3ff?sender=ub1ebcd41182e1f5350b00478" target="_blank"> our online whiteboard</a> 
 </div>
 
 <iframe src='https://app.mural.co/embed/0bca7e20-c847-4af1-8ae5-9641a69240ec'
