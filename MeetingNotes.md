@@ -1,3 +1,19 @@
+# January 18, 2021
+
+Participants: Alejandro, Ellen, Ben, Cris, Guillaume
+
+Meeting notes: GB
+
+---
+- we are ready to switch for a hybrid or fully online format given circumstances decision on the format will be taken on the 5th February (5 weeks before the event, to let time to organize the physical meeting and the interactive session)
+- we allow people to join remotely (though we do not encourage it). People joining only remotely will have to register and pay the same fee (no discount for just online). They will be able to follow the presentation and interact via the chat (hybrid) and to take part in the hackathon by forming a 'remote team'.
+we are happy with the contribution so far. We can leave the poster session open for longer, this is not a problem (but we haven't fixed a date).
+- Guillaume will send a reminder to the speakers and current poster presenter to register for the 5th of February. This reminder will contains:
+the fact that the meeting is carried out whatever the circumstances (it will be switch to full online if we are all in lockdown)
+the need to register ASAP so that they can confirm they will attend (ideally for the 4th February). We explain that the idea behind registration is be sure they will be there physically OR online
+we inform that the decision on the final format of the conference (hydrid or fully online) will be made on the 5th February to the best of our knowledge of the current situation.
+- Benjamin presented a whiteboard (mural) for the hackachton session. The idea is to put a simplified mural online before the webinar so that people can put down ideas for the three challenges. This will be also done again during the hackathon in the first 'ideas generation' phase. Then we ask all participants to choose ONE challenge and form corresponding groups so they can further rank the ideas according to feasability and importance and go down the implementation route. Out next meeting on the the 3rd February will help to provide feedback on the hackathon organisation.
+
 # December 15, 2021
 
 Participants: Alejandro, Ellen, Ben, Sarah, Cris
