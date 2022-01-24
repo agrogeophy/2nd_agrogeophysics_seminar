@@ -63,8 +63,7 @@ Bring your own dataset or pick one of [ours](https://github.com/agrogeophy/2nd_a
 #### 📌 Check out <a href="https://app.mural.co/invitation/mural/agricultureandgeophysicsanel4868/1640111681068?sender=ub1ebcd41182e1f5350b00478&key=c707c4d8-6f4a-450a-ac6a-e44d0b48fcd8" target="_blank"> our online whiteboard</a> 
 </div>
 
-
-<iframe src='https://app.mural.co/embed/a697283b-4852-49d7-8b89-31e04389e0d2'
+<iframe src='https://app.mural.co/embed/0bca7e20-c847-4af1-8ae5-9641a69240ec'
         width='100%'
         height='480px'
         style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
@@ -95,22 +94,26 @@ Bring your own dataset or pick one of [ours](https://github.com/agrogeophy/2nd_a
 <br>
 <hr />
 
-#### Literature references
 
-<div>
-- Videos illustrating the current development in the catalogue (posted in the seminar website before the meeting):
-  - Video 1 (in progress): contribute (publication/notebook submission), Findability (filter) and Reuse (export)
-  - Video 2 (in progress): prepare a dataset (example with a pedophysical dataset) 
+<div class="callout callout-warning">
+
+#### 📌 Catalog showcasing
+
+In progress:
+- Video 1 contribute (publication/notebook submission), Findability (filter) and Reuse (export) of Agrogeophysical knowledges.
+- Video 2: guidance on how to prepare a dataset (example with a pedophysical dataset) 
 </div>
- 
-## References
 
-<div>
+
+ 
+## Other references
+
+
 - <a href="https://agrogeophy.github.io/catalog/" target="_blank">Catalog</a>
 - <a href="https://datenzentrum.bonares.de/research-data.php" target="_blank">Bonares Database</a>
 - <a href="https://www.hydroshare.org/" target="_blank">Hydroshare</a>
 - <a href="https://www.usgs.gov/data-management/overview-data-management " target="_blank">USGS database</a>
-</div>
+
 
 <p id="section1">[1] Findable Accessible Interpolable Reusable </p>
 
