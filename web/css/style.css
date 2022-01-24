@@ -101,3 +101,17 @@ li.nav-item {
 .callout-warning {
   border-color: var(--bs-danger);
 }
+
+iframe {
+    margin: 0 auto;
+    background-color: #777;
+}
+
+iframe {
+    display: block;
+    border-style:none;
+}
+
+img[alt=streamlit] { width: 500px; }
+
+
