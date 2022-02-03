@@ -113,6 +113,11 @@ Final program: **End of January**
     <td class="tg-0pky">11:45 Cosmic-ray neutron sensing in support of precision irrigation or: how a fairly simple question yields a puzzling answer - <span style="font-style:italic">Brogi et al. (</span><span style="font-weight:bold;font-style:italic">invited</span><span style="font-style:italic">)</span></td>
   </tr>
   <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-0pky">12:00 Electrical resistivity tomography applications for precision irrigation management
+ <span style="font-style:italic">Vanella et al. (</span><span style="font-weight:bold;font-style:italic">invited</span><span style="font-style:italic">)</span></td>
+  </tr>
+  <tr>
     <td class="tg-c3ow">12:00 - 13:00</td>
     <td class="tg-90e1">🍟 Lunch</td>
   </tr>
