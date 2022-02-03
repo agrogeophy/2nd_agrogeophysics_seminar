@@ -1,3 +1,24 @@
+# February 3rd, 2022
+
+Participants: Ellen, Ben, Sarah, Cris, Guillaume
+
+Meeting notes: BM
+
+---
+- Seminar in-person maintained
+- No more than 15/20 people expected
+- Provide testing facilities before the event and recommand being tested 24h before the event
+- [ ] Email 5days before we start with updated COVID instructions; meantime put simple recommandation on the website (see: [Info covid](https://www.info-coronavirus.be/en/barometer/) and [Info covid Dutch](https://fdn01.fed.be/documents/cb8c080662aae10c656180a9462c723a/FODKAN_BAROMETER_PUBLIEKSEVENEMENTEN_NL_DEF2_ZONDER.pdf))
+
+
+## 📝 To-do: 
+- [ ] Guillaume takes care of the catering
+- [ ] Invite a big head (?)
+- [ ] Advertise broadly --> AGU hydrogeophysics list
+
+
+Next meeting 21th of February, 5.30 pm CET.
+
 # January 18, 2021
 
 Participants: Alejandro, Ellen, Ben, Cris, Guillaume
