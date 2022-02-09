@@ -37,13 +37,38 @@ Want to join? [Register now](https://www.eventbrite.com/e/2nd-agrogeophysics-sem
 
 <hr>
 
+## About this event
+
+
+<div class="callout callout-success">
+
+_After the success of the first edition '*Geophysics & Agriculture: the perfect match?*' in 2020, we are pleased to give you all a new opportunity to exchange knowledge, good practices, and passion on current trending topics in agrogeophysics_.
+
+<a class="btn btn-primary" href="/2nd_agrogeophysics_seminar/program" role="button">Read more</a>
+
+</div>
+<hr>
+
+## Key dates and registration
+
+
+* **Registration** 
+	- deadline: February 25th, 2022
+	- fees: **20€** for Phds, **10€** for master students, **40€** for all other cases
+
+* 🛬 **Arrival + conference dinner:** Thursday evening March 10th, 2022
+
+* 📅 **Seminar day:** Friday March 11th, 2022 8:30 - 18:00
+
+<hr>
+
 ## Venue: [Palace of the Academies](https://www.kvab.be/en/palace-academies)
 
 
 
 
 <figure>
-	<a title="ElsaBornFree, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Palais_des_Academies.jpg"><img width="4096" style="width:100%" alt="Palais des Academies" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Palais_des_Academies.jpg/4096px-Palais_des_Academies.jpg"></a>
+	<a title="ElsaBornFree, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Palais_des_Academies.jpg"><img width="2048" style="width:100%" alt="Palais des Academies" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Palais_des_Academies.jpg/4096px-Palais_des_Academies.jpg"></a>
     <figcaption> Rooms <b>Stevinzaal</b> for the seminar and <b>Troonzaal</b> for the posters/breaks. </figcaption>
 </figure>
 
@@ -68,56 +93,6 @@ Want to join? [Register now](https://www.eventbrite.com/e/2nd-agrogeophysics-sem
 
 <hr>
 
-## Key dates and registration
-
-* **Abstract submission** <strike>
-December 10th, 2021
-</strike> Extension to February 4th, 2022 ONLY for poster presentation
-
-
-
-* **Registration** 
-	- deadline: February 4th, 2022
-	- fees: **20€** for Phds, **10€** for master students, **40€** for all other cases
-	
-* **Final program and decision** January 31st, 2022
-
-* 🛬 **Arrival + conference dinner:** Thursday evening March 10th, 2022
-
-* 📅 **Seminar day:** Friday March 11th, 2022
-
-
-<div class="callout callout-warning">
-
-<i class="fa fa-exclamation-triangle text-danger" aria-hidden="true"></i>
-**Abstract submission**
-<i class="fa fa-exclamation-triangle text-danger" aria-hidden="true"></i>
-
-Please follow the guidelines on [this page](abstracts) for the submission of your abstract. The abstract submission deadline is **Wednesday, <strike>
-December 10th, 2021
-</strike> Extension to February 4th, 2022 ONLY for poster presentation**.  
-
-</div>
-
-<hr>
-
-## About this event
-
-
-<div class="callout callout-success">
-
-_After the success of the first edition '*Geophysics & Agriculture: the perfect match?*' in 2020, we are pleased to give you all a new opportunity to exchange knowledge, good practices, and passion on current trending topics in agrogeophysics_.
-
-<a class="btn btn-primary" href="/2nd_agrogeophysics_seminar/program" role="button">Read more</a>
-
-</div>
-
-
-### Program overview
-
-The committee is currently working on the call for abstracts and will then assemble a final program by January 31st [seminar program](program).
-
-<hr>
 
 ## Contact
 
