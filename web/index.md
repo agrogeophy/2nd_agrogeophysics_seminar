@@ -31,8 +31,39 @@ Agrogeophysics is an emerging research field. What are the applications, potenti
 ## Brussels, Belgium*
 *and streamed online 
 
-Want to join? 
-### [Register now](https://www.eventbrite.com/e/2nd-agrogeophysics-seminar-tickets-192657412507)
+Want to join? [Register now](https://www.eventbrite.com/e/2nd-agrogeophysics-seminar-tickets-192657412507)
+
+
+
+<hr>
+
+## Venue: [Palace of the Academies](https://www.kvab.be/en/palace-academies)
+
+
+
+
+<figure>
+	<a title="ElsaBornFree, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Palais_des_Academies.jpg"><img width="4096" style="width:100%" alt="Palais des Academies" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Palais_des_Academies.jpg/4096px-Palais_des_Academies.jpg"></a>
+    <figcaption> Rooms <b>Stevinzaal</b> for the seminar and <b>Troonzaal</b> for the posters/breaks. </figcaption>
+</figure>
+
+
+
+<div class="callout callout-success">
+
+### How to get there
+* **Contact**: [ https://www.kvab.be/en/contact]( https://www.kvab.be/en/contact)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d10077.618771837862!2d4.3653797!3d50.8421898!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x47c3c48409f9587f%3A0xb74dfdbd0226f3dd!2sPalais%20des%20Acad%C3%A9mies%20Rue%20Ducale%201%201000%20Bruxelles!3m2!1d50.8421898!2d4.3653797!5e0!3m2!1sfr!2sus!4v1644430361212!5m2!1sfr!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
+
+
+<!--
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.362119436264039%2C50.84018189814839%2C4.368814229965211%2C50.84361336329293&amp;layer=transportmap&amp;marker=50.84189766226552%2C4.365466833114624" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.84190&amp;mlon=4.36547#map=18/50.84190/4.36547&amp;layers=T">Display map</a></small>
+-->
+
+</div>
 
 
 <hr>
