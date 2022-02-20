@@ -11,7 +11,24 @@ In this interactive hackathon session, we will work on 3 challenges, develop ide
 We believe in research community efforts and value your contribution! Ideas and contributors will be publicly available in the github page.
 </div>
 
- 
+## Timing
+
+- Start: a quick overview of CAGS and datasets
+- Phase 1: idea generation (1/2h)
+    - (15 min)  By group, try to propose as many ideas as possible to answer the challenges listed below. 
+    - (15 min)  Vote on ideas and select the idea they want to develop
+- Phase 2: idea development (1h30 + 15 min break)
+   - (45 min): first idea development, concept and potential implementation
+   - (15 min): coffee break
+   - (45 min): finalisation of ideas and presentation
+- Phase 3: idea implementation (1h)
+   - (20 min): publication of the results and contributors on the github page
+   - (40 min): ideas implementation (and upload to the catalogue for new datasets/contributions?)
+- Break (15 min)
+- Pitch of team results to an expert panel and the public (30-45 min)
+
+
+
 ## Challenges
 
 1. How to encourage the emergence of standards in Agrogeophysics?
