@@ -123,7 +123,7 @@ template: base.html
   </tr>
   <tr>
     <td class="tg-c3ow"></td>
-    <td class="tg-0pky">Phase 1: Idea generation to answer the challenges listed below (30min)</td>
+    <td class="tg-0pky">Phase 1: Idea generation to answer the challenges (30min)</td>
   </tr>
   <tr>
     <td class="tg-c3ow"></td>
