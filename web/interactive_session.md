@@ -102,16 +102,16 @@ The Catalog of [AgroGeophysical Studies](https://agrogeophy.github.io/catalog/) 
 <div class="row">
   <div class="column">
 	<video width="420" height="240" controls>
-		<source src="/media/catalog.mp4" type="video/mp4">  
-		<source src="/media/catalog.webm" type="video/webm">
+		<source src="media/catalog.mp4" type="video/mp4">  
+		<source src="media/catalog.webm" type="video/webm">
 		Your browser does not support the video tag.
 	</video>
 	
   </div>
   <div class="column">
 	<video width="420" height="240" controls>
-		  <source src="/media/catalog_app.mp4" type="video/mp4">  
-		  <source src="/media/catalog_app.webm" type="video/webm">
+		  <source src="media/catalog_app.mp4" type="video/mp4">  
+		  <source src="media/catalog_app.webm" type="video/webm">
 		Your browser does not support the video tag.
 	</video>
   </div>  
