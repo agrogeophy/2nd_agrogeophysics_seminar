@@ -16,3 +16,9 @@ All folder contain a .yml file describing the **metadata**, supported by **Skepp
 1. How to encourage the emergence of standards in Agrogeophysics?
 2. How to build a library of robust/reusable pedophysical relationships?
 3. How to encourage the use of geophysics in interdisciplinary studies?
+
+
+## Links
+
+Link to the streamlit app
+Link to catalog submission
