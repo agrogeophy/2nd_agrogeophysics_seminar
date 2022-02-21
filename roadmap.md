@@ -30,6 +30,7 @@ They charge 6.5 eur per person for Café, Thé, Jus de fruits, Eau + 15 eur fixe
 ## The day 
 -  Arrive at the latest 45 minutes in advance 
 -  Take computer,  pointer, punaises, book of receipts, arrows, list of participants, registration forms, … with you and install upon arrival. 
+- [ ] (CHRIS) Take some photos
 
 ## After seminar
 - [ ] (BEN) Put some photos on the website and presentations
