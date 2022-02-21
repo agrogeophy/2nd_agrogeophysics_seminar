@@ -42,6 +42,80 @@ How can you encourage a non-specialist to use geophysics? Which tools would they
 
 <hr />
 
+
+## Timing
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:18px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:18px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-2dfk{background-color:#ecf4ff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-n533{background-color:#dae8fc;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ncd7{background-color:#ffffc7;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-90e1{background-color:#ffccc9;border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1027px">
+<colgroup>
+<col style="width: 51px">
+<col style="width: 976px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-2dfk" colspan="2">Thu 10/03</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n533" colspan="2">Fri 11/03 - Palace of the Royal Academies</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">13:00 - 16:30</td>
+    <td class="tg-ncd7"><a href="interactive_session">Interactive session hackathon</a> - Conveners Guillaume Blanchy and Benjamin Mary </td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-0pky">Start: a quick overview of CAGS</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-0pky">Phase 1: Idea generation to answer the challenges listed below (30min)</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-0pky">Phase 2: Idea development (1h30)</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-fymr">☕ coffee break</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-0pky">Phase 3: Idea implementation (1h)</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-fymr">☕ coffee break</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-0pky">Phase 4: pitch of team results to an expert panel and the public (30-45 min)</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">16:30 - 18:00</td>
+    <td class="tg-0pky">Teams pitch their work </td>
+    <td class="tg-0pky"> Drink and fingerfood. :-)</td>
+  </tr>
+</tbody>
+</table>
+
+
+<br>
+
 ## Materials 🗂️
 
 
