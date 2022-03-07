@@ -65,7 +65,7 @@ template: base.html
     <td class="tg-0pky">9:45 Mapping of Agricultural Subsurface Drainage Systems Using Proximal and Remote Sensors - <span style="font-style:italic">Koganti et al. (</span><span style="font-weight:bold;font-style:italic">invited</span><span style="font-style:italic">)</span></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">10:00 - 11:00</td>
+    <td class="tg-c3ow">10:00 - 10:45</td>
     <td class="tg-ncd7">Coffee ☕ and<span style="font-weight:bold"> poster session</span></td>
   </tr>
   <tr>
