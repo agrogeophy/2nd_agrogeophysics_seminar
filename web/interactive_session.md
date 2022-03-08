@@ -143,7 +143,7 @@ Steps to contribute:
 <div class="callout callout-warning">
 
 #### 📌 Check out  our online app and start playing with pedophysical models
-<a href="https://share.streamlit.io/yourGitHubName/yourRepo/yourApp/"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="streamlit" style="width:202px"></a>
+<a href="https://share.streamlit.io/benjmy/ert_swc_board/main/app.py"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="streamlit" style="width:202px"></a>
 
 Steps to contribute:
 - Check out the videos and  <a href="https://github.com/agrogeophy/datasets#readme" target="_blank"> readme of the agrogeophysical catalog</a>  
