@@ -5,6 +5,7 @@ template: base.html
 
 # {{ page.custom_page_title }}
 
+Book of abstracts: [download here](./media/AgroGeophysics_Seminar_Abstarct-Booklet.pdf)
 
 <div class="callout">
 
