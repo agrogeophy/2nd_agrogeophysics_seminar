@@ -13,7 +13,8 @@ menu:
   - [Agenda, program_tmp]
   - [<font color="blue"> Hackathon </font>, interactive_session ]
   - [<font color="green"> Submit your abstract</font>, abstracts]  
-  - [<font color="red"> COVID-19 information</font>, COVID19]
+  - [<font color="red"> COVID-19 information</font>, COVID19]  
+  - [Gallery, gallery]
 ignore:
   - README.md
   - config-alternative.json
