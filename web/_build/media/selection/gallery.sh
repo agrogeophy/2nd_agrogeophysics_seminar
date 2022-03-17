@@ -1,5 +1,3 @@
-#!/bin/bash
-
 for i in *.JPG 
 do 
       
@@ -7,5 +5,3 @@ echo "<div class='gallery'><a target='_blank' href='media/selection/$i'><img src
 
 
 done
-	
-
