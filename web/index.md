@@ -20,9 +20,11 @@ template: base.html
 <p class="lead">
 Agrogeophysics is an emerging research field. What are the applications, potential and future research needs? Come and discover with us.	
 </p>
-	
-Book of abstracts: [download here](./media/AgroGeophysics_Seminar_Abstarct-Booklet.pdf)
 
+<p>
+	Book of abstracts: <a href="media/AgroGeophysics_Seminar_Abstarct-Booklet.pdf">download here</a>
+</p>
+	
 </div>
 <div class="col-md-3 col-sm-4 col-4">
   <img alt="Seminar logo" src="{{ config.logo }}">
