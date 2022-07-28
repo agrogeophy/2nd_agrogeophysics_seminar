@@ -18,8 +18,10 @@ template: base.html
 
 
 <p class="lead">
-Agrogeophysics is an emerging research field. What are the applications, potential and future research needs? Come and discover with us.
+Agrogeophysics is an emerging research field. What are the applications, potential and future research needs? Come and discover with us.	
 </p>
+	
+Book of abstracts: [download here](./media/AgroGeophysics_Seminar_Abstarct-Booklet.pdf)
 
 </div>
 <div class="col-md-3 col-sm-4 col-4">
