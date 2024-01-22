@@ -1,6 +1,8 @@
 name: build-html
 
 on:
+  workflow_dispatch:  # Trigger manually
+
   pull_request:
   push:
     branches:
